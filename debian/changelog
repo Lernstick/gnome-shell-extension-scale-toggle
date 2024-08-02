@@ -1,3 +1,9 @@
+gnome-shell-extension-scale-toggle (2) lernstick-13; urgency=medium
+
+  * Prepare for trixie
+
+ -- Thore Sommer <mail@thson.de>  Fri, 02 Aug 2024 10:00:00 +0200
+
 gnome-shell-extension-scale-toggle (1) lernstick-12; urgency=medium
 
   * Initial Version
