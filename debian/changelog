@@ -1,3 +1,9 @@
+gnome-shell-extension-scale-toggle (3) lernstick-13; urgency=medium
+
+  * Update for GNOME 47 and 48
+
+ -- Thore Sommer <mail@thson.de>  Tue, 25 Feb 2025 13:00:00 +0200
+
 gnome-shell-extension-scale-toggle (2) lernstick-13; urgency=medium
 
   * Prepare for trixie
